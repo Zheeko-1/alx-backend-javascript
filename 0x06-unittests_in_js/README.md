@@ -1,1 +1,2 @@
-# Solutions to tasks on 0x06. Unittests in JS
+# Please add a .gitignore file to avoid redundancy
+# To be updated
